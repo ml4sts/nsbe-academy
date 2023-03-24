@@ -1,29 +1,6 @@
-# JupyterLite Demo
+# Intro to Python for Data Science 
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[sign in](https://hackmd.io/@drsmb/nsbe49/edit)
 
-JupyterLite deployed as a static site to GitHub Pages, nsbee academy.
 
-## ✨ Try it in your browser ✨
-
-➡️ **https://jupyterlite.github.io/demo**
-
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
-
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+By the end of this hands on training, you will be able to make publication ready plots using python data science tools. We will begin by exploring the python data science ecosystem to orient you to the what popular tools are and why they are popular.  Next, we will use loading and analyzing data to experience and discuss the Python programming style and common patterns that will set you on a path to successfully use Python independently. We will use core Python and the Python Scientific Computing stack, the same set of open source libraries that were used to produce the first images of a black hole. Every step of the way, you will type and run your own code.  We will work through problems together and you will get to practice independently as well.  A laptop with internet connection is required to participate in this training.  No Python experience is required, but some experience in any other programming language will be helpful.  
